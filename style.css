@@ -98,7 +98,7 @@ main {
 }
 @media (max-width:1000px) {
   main {
-    height: 15vh;
+    height: 25vh;
     display: flex;
     justify-content: space-around;
     align-items:center;
@@ -1072,6 +1072,7 @@ textarea {
   
 
 }
+
 
 
 
