@@ -691,7 +691,7 @@ nav a:hover {
   color: #fff;
 }
 
-@media (max-width:768px){
+@media (max-width:1000px){
     .carousel {
     display: flex;
     height: auto;
@@ -701,6 +701,8 @@ nav a:hover {
     gap: 40px;
     }
     .instructor-card {
+        display:flex;
+      /* flex-direction:column; */
         width: 600px;
         height: auto;
         overflow: hidden;
