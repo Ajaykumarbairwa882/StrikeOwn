@@ -9,7 +9,7 @@
 
 🔗 **Live URL:** https://ajaykumarbairwa882.github.io/StrikeOwn/
 )
-🐙 **GitHub Repo:** https://github.com/ajaykumarbairwa882/strike-website
+🐙 **GitHub Repo:** https://github.com/ajaykumarbairwa882/strikeOwn
 
 ---
 
@@ -76,5 +76,5 @@ Built with **mobile-first** principles using CSS Grid & Flexbox.
 
 1️⃣ Clone the repository  
 ```bash
-git clone https://github.com/ajaykumarbairwa882/strike-website.git
-cd strike-website
+git clone https://github.com/ajaykumarbairwa882/StrikeOwn.git
+cd StrikeOwn 
